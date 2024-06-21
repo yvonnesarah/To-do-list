@@ -27,9 +27,11 @@ Application can can be viewed here:
 
 ## Screenshot(S)
 To do list
+
 ![Screenshot](assets/images/to-do-list.png "To do list")
 
 To do list Example
+
 ![Screenshot](assets/images/to-do-list-example.png "To do list Example")
 
 To do list Local Storage
