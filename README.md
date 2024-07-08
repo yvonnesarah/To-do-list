@@ -6,6 +6,13 @@ The To-Do List Web App is a simple and user-friendly application designed to hel
 ## Prerequisites
 N/A
 
+## Features
+* Add new tasks.
+* Edit existing tasks.
+* Delete tasks.
+* Mark tasks as complete.
+* Responsive design for mobile and desktop devices.
+
 ## Technologies Used
 Built with:
 * HTML
@@ -17,7 +24,11 @@ Built with:
 N/A
 
 ## Usage
-N/A
+* Open the To-Do List web application in your browser.
+* Add a new task by typing in the input field and clicking the "Add" button.
+* Delete a task by clicking the "Delete" button next to the task.
+* Mark a task as complete by clicking the checkbox next to the task.
+* Organize and manage your tasks efficiently using the intuitive interface.
 
 ## Project Link
 Application can can be viewed here: 
